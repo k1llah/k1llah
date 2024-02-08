@@ -1,5 +1,5 @@
-- 👋 Hi, I’m k1llah
-- 👀 I’m interested in find a job in frontend/fullstack development
+<h1>👋 Hi, I’m k1llah</h1>
+ <h3>👀 I’m interested in find a job in frontend/fullstack development<h3/>
 <p align="center">
 <img src="tayler.gif" alt="">
   <img src="c6f93b09460ca403a534d2c3e12076c9.jpg" alt="">

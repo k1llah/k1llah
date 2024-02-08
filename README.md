@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m k1llah</h1>
+<h1>🖐🏻 Hi, I’m k1llah</h1>
  <h3>👀 I’m interested in find a job in frontend/fullstack development<h3/>
 <p align="center">
 <img src="tayler.gif" alt="">

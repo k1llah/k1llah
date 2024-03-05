@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 Step Academy Russia 2023-2024
 </h3>
 <h4>
- 📚✨My Knowledge:
+ 📚✨My Stack/Knowledge:
  <ul>
   <li>JavaScript</li>
   <li>TypeScript</li>

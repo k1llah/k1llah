@@ -45,17 +45,14 @@ Step Academy Russia 2023-2024
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=BekzhanovR">
-  <img align="right" src="https://komarev.com/ghpvc/?username=BekzhanovR&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
 
 
-[![wakatime](https://wakatime.com/badge/user/018c38ec-a954-4b4e-97a1-496897411d3b.svg)](https://wakatime.com/@018c38ec-a954-4b4e-97a1-496897411d3b)
+
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="">K1llah</a></b>
+                <b><a target="_blank" href="https://bekzhanov.netlify.app">K1llah</a></b>
         </samp>
 </h3>
 
@@ -80,13 +77,15 @@ Step Academy Russia 2023-2024
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=k1llah&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
-</p>
-<div style="display:flex; gap: 10px; flex-wrap: wrap;">
 <a> 
 
 ![k1llah's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1llah&theme=midnight_purple)
 ![k1llah's Graph](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k1llah&theme=midnight_purple)
   <br/>
 </a>
-</div>
+</p>
+
+
+
 <figure><embed src="https://wakatime.com/share/@018dc2ef-198e-4390-9b22-cd58002db121/c26456b5-cc43-49cb-b092-ec4fb6b973cf.svg"></embed></figure>
+

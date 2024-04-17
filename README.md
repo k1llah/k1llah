@@ -43,19 +43,7 @@ Step Academy Russia 2023-2024
   <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
- -->
-
-
-
-
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://bekzhanov.netlify.app">K1llah</a></b>
-        </samp>
-</h3>
-
+ --
 
 
 
@@ -80,9 +68,13 @@ Step Academy Russia 2023-2024
   <br/>
 </p>
 </div>
-<div display="flex" align="center">
-![k1llah's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1llah&theme=midnight_purple)
-![k1llah's Graph](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k1llah&theme=midnight_purple)
-</div>
-<figure><embed src="https://wakatime.com/share/@018dc2ef-198e-4390-9b22-cd58002db121/c26456b5-cc43-49cb-b092-ec4fb6b973cf.svg"></embed></figure>
 
+<div align="center">
+ 
+![k1llah's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1llah&theme=midnight_purple)  
+
+</div>
+<div style="display: flex;" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k1llah&theme=midnight_purple" alt="k1llah's Graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k1llah&theme=midnight_purple" alt="k1llah's Graph" />
+</div>

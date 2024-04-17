@@ -73,18 +73,15 @@ Step Academy Russia 2023-2024
 <br/>
 <hr/>
 <br/> -->
-
-
+<div align="center">
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=k1llah&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
-<a> 
 
 ![k1llah's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1llah&theme=midnight_purple)
 ![k1llah's Graph](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k1llah&theme=midnight_purple)
   <br/>
-</a>
 </p>
-
+</div>
 
 
 <figure><embed src="https://wakatime.com/share/@018dc2ef-198e-4390-9b22-cd58002db121/c26456b5-cc43-49cb-b092-ec4fb6b973cf.svg"></embed></figure>

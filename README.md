@@ -30,3 +30,63 @@ Step Academy Russia 2023-2024
   <li>Git</li>
  </ul>
 </h4>
+
+<!--
+<h2 align="center">
+  Welcome to Bekzhanov World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+-->
+
+<!--
+<p align="center">
+  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
+ -->
+
+<a href="https://komarev.com/ghpvc/?username=BekzhanovR">
+  <img align="right" src="https://komarev.com/ghpvc/?username=BekzhanovR&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+
+[![wakatime](https://wakatime.com/badge/user/018c38ec-a954-4b4e-97a1-496897411d3b.svg)](https://wakatime.com/@018c38ec-a954-4b4e-97a1-496897411d3b)
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://bekzhanov.netlify.app">K1llah</a></b>
+        </samp>
+</h3>
+
+
+
+
+
+<!-- ## Top Open Source -
+[![Programming tasks](https://github-readme-stats.vercel.app/api/pin/?username=BekzhanovR&repo=Programming-tasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BekzhanovR/Programming-tasks)
+[![README template](https://github-readme-stats.vercel.app/api/pin/?username=BekzhanovR&repo=BekzhanovR&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BekzhanovR/BekzhanovR)
+[![Frontend practikum](https://github-readme-stats.vercel.app/api/pin/?username=BekzhanovR&repo=Frontend-Praktikum&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BekzhanovR/Frontend-Praktikum)
+[![HTML & CSS](https://github-readme-stats.vercel.app/api/pin/?username=BekzhanovR&repo=Html_Css_with_FreeCodeCamp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BekzhanovR/Html_Css_with_FreeCodeCamp) -->
+
+<!-- <p align="left">
+  <a href="https://github.com/BekzhanovR?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/> -->
+
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=k1llah&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
+</p>
+
+<a> 
+
+![k1llah's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1llah&theme=midnight_purple)
+![k1llah's Graph](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k1llah&theme=midnight_purple)
+  <br/>
+</a>
+
+<figure><embed src="https://wakatime.com/share/@018dc2ef-198e-4390-9b22-cd58002db121/c26456b5-cc43-49cb-b092-ec4fb6b973cf.svg"></embed></figure>

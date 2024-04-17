@@ -80,18 +80,9 @@ Step Academy Russia 2023-2024
   <br/>
 </p>
 </div>
-<div class="flex-container">
+<div display="flex" align="center">
 ![k1llah's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1llah&theme=midnight_purple)
 ![k1llah's Graph](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k1llah&theme=midnight_purple)
 </div>
 <figure><embed src="https://wakatime.com/share/@018dc2ef-198e-4390-9b22-cd58002db121/c26456b5-cc43-49cb-b092-ec4fb6b973cf.svg"></embed></figure>
 
-.flex-container {
-	display: flex;
-	flex-wrap: wrap;
-}
-
-.flex-container > div {
-	margin: 10px;
-	padding: 20px;
-}

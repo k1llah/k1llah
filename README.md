@@ -1,4 +1,4 @@
-<h1>🖐🏻 Sup, I’m k1llah </h1>
+<h1>Sup, I’m k1llah </h1>
  <h2>⭐️ I’m interested in finding a job in frontend/fullstack development<h3/>
 <p align="center">
 <img src="tayler.gif" alt="">
@@ -13,20 +13,21 @@ You can click the Preview link to take a look at your changes.
 Step Academy Russia 2023-2024
 </h3>
 <h4>
- 📚✨My Stack/Knowledge:
- <ul>
-  <li>JavaScript</li>
+ ✨ My Stack:
+ <ul style="font-size: 35px;">
+  <li>Nuxt 3</li>
+  <li>Vue 3</li>
+  <li>Tailwind</li>
   <li>TypeScript</li>
+  <li>JavaScript</li>
   <li>Html5</li>
   <li>Css</li>
-  <li>Tailwind</li>
-  <li>Vue, Vue router</li>
+  <li>Strapi</li>
   <li>Node.js</li>
-  <li>Prisma</li>
   <li>PostgreSql</li>
   <li>Express.js</li>
+  <li>Prisma</li>
   <li>Vite</li>
-  <li>Vike</li>
   <li>Git</li>
  </ul>
 </h4>

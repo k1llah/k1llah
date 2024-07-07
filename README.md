@@ -7,6 +7,7 @@
 - Чем больше мониторов, тем выше грейд
 - YOPTASCRIPT fan
 - Prisoner of Eslint
+- Event evil loop lover 🥺
 
 <div>
  

@@ -34,9 +34,9 @@
 #### Tools
 
 ![NPM](https://img.shields.io/badge/NPM-710000?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-4B3263?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/git-710000?style=for-the-badge&logo=git&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-710000?style=for-the-badge&logo=eslint&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-710000?style=for-the-badge&logo=vite&logoColor=white)
 
  </div>
 </div>

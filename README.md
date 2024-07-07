@@ -2,41 +2,58 @@
 ## Мечтаю чтобы PHP никода не умер
 ### Vue/Nuxt stan 🥰 - ну обожаю вуе короч
 
-- BYDLOKOD member
+- БЫДЛОКОД member
 - Программистов заменит ИИ
 - Чем больше мониторов, тем выше грейд
 - YOPTASCRIPT fan
 - Prisoner of Eslint
+
+<div>
+ 
+ ### Tech stack ⌃
+ 
+ <div>
+  
+  #### Front side
+  
+ ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+ ![Vue.js](https://img.shields.io/badge/vuejs-002E3B?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+ ![TypeScript](https://img.shields.io/badge/typescript-002E3B.svg?style=for-the-badge&logo=typescript&logoColor=white)
+ ![TailwindCSS](https://img.shields.io/badge/tailwindcss-002E3B?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html5-002E3B?style=for-the-badge&logo=html5&logoColor=white)
+ ![SASS](https://img.shields.io/badge/SASS-002E3B?style=for-the-badge&logo=SASS&logoColor=white)
+
+ #### Back 
+
+ ![NodeJS](https://img.shields.io/badge/node.js-04657b?style=for-the-badge&logo=node.js&logoColor=white)
+ ![Express.js](https://img.shields.io/badge/express.js-04657b?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+ ![Postgres](https://img.shields.io/badge/postgres-04657b?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![Prisma](https://img.shields.io/badge/Prisma-04657b?style=for-the-badge&logo=Prisma&logoColor=white)
+ ![Strapi](https://img.shields.io/badge/strapi-04657b?style=for-the-badge&logo=strapi&logoColor=white)
+
+#### Tools
+
+![NPM](https://img.shields.io/badge/NPM-710000?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-4B3263?style=for-the-badge&logo=vite&logoColor=white)
+
+ </div>
+</div>
+<br>
 <p align="center">
-<img src="tayler2.gif" alt="">
+<img src="tayler (1) (1) (1)-min.gif" alt="">
 </p>
 
 <h3>Education: <br>
-Step Academy Russia 2023-2024
+Step Academy Russia 2022-2023
 </h3>
-<h4>
- ✨ My Stack:
- <ul style="font-size: 35px;">
-  <li>Nuxt 3</li>
-  <li>Vue 3</li>
-  <li>Tailwind</li>
-  <li>TypeScript</li>
-  <li>JavaScript</li>
-  <li>Html5</li>
-  <li>Css</li>
-  <li>Strapi</li>
-  <li>Node.js</li>
-  <li>PostgreSql</li>
-  <li>Express.js</li>
-  <li>Prisma</li>
-  <li>Vite</li>
-  <li>Git</li>
- </ul>
-</h4>
-
-
+<br>
+<br>
 <div align="center">
-#### NU eto ya tipo krutoy (no voobshe to net 👿)
+ 
+### NU eto ya tipo krutoy (no voobshe to net 👿)
+
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=k1llah&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
 

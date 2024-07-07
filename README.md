@@ -8,7 +8,7 @@
 - YOPTASCRIPT fan
 - Prisoner of Eslint
 <p align="center">
-<img src="tayler.gif" alt="">
+<img src="tayler2.gif" alt="">
 </p>
 
 <h3>Education: <br>

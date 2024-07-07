@@ -18,25 +18,25 @@
   
  ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
  ![Vue.js](https://img.shields.io/badge/vuejs-002E3B?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
- ![TypeScript](https://img.shields.io/badge/typescript-002E3B.svg?style=for-the-badge&logo=typescript&logoColor=white)
- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-002E3B?style=for-the-badge&logo=tailwind-css&logoColor=white)
- ![HTML5](https://img.shields.io/badge/html5-002E3B?style=for-the-badge&logo=html5&logoColor=white)
- ![SASS](https://img.shields.io/badge/SASS-002E3B?style=for-the-badge&logo=SASS&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/typescript-002E3B.svg?style=for-the-badge&logo=typescript&logoColor=blue)
+ ![TailwindCSS](https://img.shields.io/badge/tailwindcss-002E3B?style=for-the-badge&logo=tailwind-css&logoColor=blue)
+ ![HTML5](https://img.shields.io/badge/html5-002E3B?style=for-the-badge&logo=html5&logoColor=orange)
+ ![SASS](https://img.shields.io/badge/SASS-002E3B?style=for-the-badge&logo=SASS&logoColor=purple)
 
  #### Back 
 
- ![NodeJS](https://img.shields.io/badge/node.js-04657b?style=for-the-badge&logo=node.js&logoColor=white)
+ ![NodeJS](https://img.shields.io/badge/node.js-04657b?style=for-the-badge&logo=node.js&logoColor=green)
  ![Express.js](https://img.shields.io/badge/express.js-04657b?style=for-the-badge&logo=express&logoColor=%2361DAFB)
  ![Postgres](https://img.shields.io/badge/postgres-04657b?style=for-the-badge&logo=postgresql&logoColor=white)
  ![Prisma](https://img.shields.io/badge/Prisma-04657b?style=for-the-badge&logo=Prisma&logoColor=white)
- ![Strapi](https://img.shields.io/badge/strapi-04657b?style=for-the-badge&logo=strapi&logoColor=white)
+ ![Strapi](https://img.shields.io/badge/strapi-04657b?style=for-the-badge&logo=strapi&logoColor=blue)
 
 #### Tools
 
 ![NPM](https://img.shields.io/badge/NPM-710000?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/git-710000?style=for-the-badge&logo=git&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-710000?style=for-the-badge&logo=eslint&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-710000?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/git-710000?style=for-the-badge&logo=git&logoColor=f64d27)
+![ESLint](https://img.shields.io/badge/ESLint-710000?style=for-the-badge&logo=eslint&logoColor=4a31c3)
+![Vite](https://img.shields.io/badge/vite-710000?style=for-the-badge&logo=vite&logoColor=yellow)
 
  </div>
 </div>

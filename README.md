@@ -46,9 +46,6 @@
 <img src="tayler (1) (1) (1)-min.gif" alt="">
 </p>
 
-<h3>Education: <br>
-Step Academy Russia 2022-2023
-</h3>
 <br>
 <br>
 <div align="center">

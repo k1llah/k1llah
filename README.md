@@ -3,8 +3,8 @@
 ### Vue/Nuxt stan 🥰 - ну обожаю вуе короч
 
 ### BEING A FULL STACK DEV - IS BEING EQUALLY BAD AT BACKEND AND FRONTEND
-- БЫДЛОКОД member
-- Программистов заменит ИИ
+- not БЫДЛОКОД member anymore
+- Программистов заменит дикпик
 - YOPTASCRIPT fan
 - Prisoner of Eslint
 - Event evil loop lover 🥺

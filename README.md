@@ -4,10 +4,11 @@
 
 ### BEING A FULL STACK DEV - IS BEING EQUALLY BAD AT BACKEND AND FRONTEND
 - not БЫДЛОКОД member anymore
-- Программистов заменит дикпик
+- Программистов заменил tab key :(
 - YOPTASCRIPT fan
 - Prisoner of Eslint
 - Event evil loop lover 🥺
+- На бога надейся, а сам find . -name "node_modules" -type d -prune -exec rm -rf '{}' +
 
 <div>
  

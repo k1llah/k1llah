@@ -1,5 +1,5 @@
 # Envelope developer since 2027
-## Мечтаю чтобы PHP никода не умер
+## NPM RUN DVE БУТЫЛОЧКИ СВЕТЛОГО НЕФИЛЬТРОВАННОГО
 ### Vue/Nuxt stan 🥰 - ну обожаю вуе короч
 
 ### BEING A FULL STACK DEV - IS BEING EQUALLY BAD AT BACKEND AND FRONTEND

@@ -9,6 +9,7 @@
 - Prisoner of Eslint
 - Event evil loop lover 🥺
 - На бога надейся, а сам find . -name "node_modules" -type d -prune -exec rm -rf '{}' +
+- Не в масть тебе такие git push origin main --force
 
 <div>
  

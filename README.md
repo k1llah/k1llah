@@ -3,8 +3,8 @@
 ### Vue/Nuxt stan 🥰 - ну обожаю вуе короч
 
 ### BEING A FULL STACK DEV - IS BEING EQUALLY BAD AT BACKEND AND FRONTEND
-- not БЫДЛОКОД member anymore
-- Программистов заменил tab key :(
+- БЫДЛОКОД member
+- Мой второй отец живет в Амстердаме
 - YOPTASCRIPT fan
 - Prisoner of Eslint
 - Event evil loop lover 🥺
